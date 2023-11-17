@@ -23,10 +23,10 @@ This repository documents my journey in learning web development through various
 
 I've studied this project through the following Udemy courses:
 
-1. [Desenvolvimento WEB Compacto e Completo](#) - [Insert Link] https://www.udemy.com/course/desenvolvimento-web-compacto-e-completo/
-2. [JavaScript Moderno do Basico ao Avançado](#) - [Insert Link] https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
-3. [ReacJS NextJS Completo do Basico ao Avançado](#) - [Insert Link] https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/
-4. [Ruby on Rails Developer Course](#) - [Insert Link] https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
+1. [Desenvolvimento WEB Compacto e Completo](#) - https://www.udemy.com/course/desenvolvimento-web-compacto-e-completo/
+2. [JavaScript Moderno do Basico ao Avançado](#) - https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
+3. [ReacJS NextJS Completo do Basico ao Avançado](#) - https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/
+4. [Ruby on Rails Developer Course](#) - https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
 
 ## Projects
 
